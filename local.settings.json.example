@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "",
+    "OLLAMA_HOST": "TWÓJ_OLLAMA_HOST",
+    "OLLAMA_MODEL": "TWÓJ_MODEL"
+  }
+}
